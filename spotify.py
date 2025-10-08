@@ -7,7 +7,7 @@ import re
 
 sp = spotipy.Spotify(auth_manager = SpotifyClientCredentials(
     client_id = '39f65947fa9f4ce2ba4d073d3a0fb53a', 
-    client_secret = 'd580810c7f954d5da5e212b91620b252'
+    client_secret = 'd5************************52'
 ))
 
 track_url = "https://open.spotify.com/track/7fUS9gftrrgtaHJUwFnbEt"
